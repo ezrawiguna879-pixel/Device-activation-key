@@ -1,18 +1,16 @@
-{
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "9bb01cef9b427022",
-        "key": "mykey123",
-        "expirydate": "01-06-2026",
-        "Allowoffline": false
+[
+  {
+    "id": "a880d1841a905298",
+    "username": "ali",
+    "password": "aliali",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
 ]
